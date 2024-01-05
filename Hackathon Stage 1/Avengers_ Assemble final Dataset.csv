@@ -1,0 +1,47 @@
+Name,Gender,Ability,Availability,Work_affiliation,Age,Enemy
+Iron Man,Male,Technology,FALSE,Avengers,45,Thanos
+Thor,Male,Thunder,TRUE,Avengers,1500,Loki
+Hulk,Male,Super strength,FALSE,Avengers,49,Abomination
+Captain America,Male,Super strength,TRUE,Avengers,103,Red Skull
+Black Widow,Female,Agility,TRUE,Avengers,34,Taskmaster
+Hawkeye,Male,Marksmanship,FALSE,Avengers,50,Loki
+Scarlet Witch,Female,Reality manipulation,TRUE,Avengers,33,Chthon
+Black Panther,Male,Super strength,TRUE,Avengers,42,Erik Killmonger
+Doctor Strange,Male,Time manipulation,FALSE,Avengers,45,Dormammu
+Ant-Man,Male,Size manipulation,TRUE,Avengers,42,Darren Cross
+Spider-Man,Male,Super strength,TRUE,Avengers,24,Green Goblin
+Captain Marvel,Female,Flight,FALSE,Avengers,30,Yon-Rogg
+Wolverine,Male,Regeneration,TRUE,X-Men,197,Sabretooth
+Deadpool,Male,Regeneration,TRUE,X-Force,32,Ajax
+Vision,Male,Intangibility,FALSE,Avengers,3,Ultron
+Falcon,Male,Flight,TRUE,Avengers,43,Baron Zemo
+War Machine,Male,Technology,TRUE,Avengers,55,Justin Hammer
+Doctor Doom,Male,Technology,FALSE,Latveria,48,Reed Richards
+Black Cat,Female,Agility,TRUE,None,35,Kingpin
+Ghost Rider,Male,Flame manipulation,TRUE,None,40,Mephisto
+Quicksilver,Male,Super speed,FALSE,X-Men,33,Magneto
+Wasp,Female,Flight,TRUE,Avengers,36,Whirlwind
+Gamora,Female,Super strength,TRUE,Guardians of the Galaxy,30,Thanos
+Rocket Raccoon,Male,Technology,TRUE,Guardians of the Galaxy,6,Taserface
+Groot,Male,Plant manipulation,FALSE,Guardians of the Galaxy,5,Ronan
+Star-Lord,Male,Marksmanship,TRUE,Guardians of the Galaxy,40,Yondu Udonta
+Winter Soldier,Male,Super strength,TRUE,Avengers,107,Red Skull
+Daredevil,Male,Enhanced senses,FALSE,Defenders,35,Kingpin
+Luke Cage,Male,Invulnerability,TRUE,Heroes for Hire,35,Diamondback
+Jessica Jones,Female,Investigation,TRUE,None,38,Kilgrave
+Iron Fist,Male,Chi manipulation,FALSE,Heroes for Hire,35,Steel Serpent
+Elektra,Female,Agility,TRUE,The Hand,35,Stick
+Punisher,Male,Marksmanship,TRUE,None,44,Kingpin
+Shuri,Female,Technology,FALSE,Avengers,20,Man-Ape
+Mantis,Female,Empathy,TRUE,Guardians of the Galaxy,40,Thanos
+Valkyrie,Female,Flight,TRUE,Avengers,34,Hela
+Loki,Male,Sorcery,FALSE,None,1000,Thor
+Hela,Female,Death manipulation,TRUE,None,1000,Thor
+Nick Fury,Male,Leadership,TRUE,S.H.I.E.L.D.,72,Hydra
+Agent Coulson,Male,Intelligence,TRUE,S.H.I.E.L.D.,54,Hydra
+Maria Hill,Female,Leadership,FALSE,S.H.I.E.L.D.,55,Hydra
+Falcon (Sam Wilson),Male,Flight,TRUE,Avengers,41,Baron Zemo
+White Wolf (Bucky Barnes),Male,Marksmanship,TRUE,Avengers,106,Red Skull
+Okoye,Female,Hand-to-hand combat,FALSE,Wakanda,40,Erik Killmonger
+M'Baku,Male,Enhanced senses,TRUE,Wakanda,40,Erik Killmonger
+Shang-Chi,Male,Martial arts,TRUE,None,30,The Mandarin
